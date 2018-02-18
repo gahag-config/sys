@@ -1,0 +1,9 @@
+[submodule "arch"]
+	path = arch
+	url = https://github.com/gahag-config/arch
+[submodule "bash"]
+	path = bash
+	url = https://github.com/gahag-config/bashrc
+[submodule "x11"]
+	path = x11
+	url = https://github.com/gahag-config/x11
