@@ -7,3 +7,6 @@
 [submodule "x11"]
 	path = x11
 	url = https://github.com/gahag-config/x11
+[submodule "xigmanas"]
+	path = xigmanas
+	url = git@github.com:gahag-config/xigmanas.git
